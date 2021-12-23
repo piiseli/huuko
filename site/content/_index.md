@@ -1,6 +1,6 @@
 ---
-title: "Pai tekee ekaa juttua"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Pain eka juttu"
+subtitle: Netlifyn käytön opettelu, pohjana Hugo
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
