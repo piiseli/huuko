@@ -1,7 +1,7 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+baseurl = "https://pai.fi"
+languageCode = "fi-fu"
+languageLang = "fi"
+title = "Pai"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
