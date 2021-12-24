@@ -1,4 +1,4 @@
-baseurl = "https://pai.fi"
+baseurl = "github.com/piiseli/huuko"
 languageCode = "fi-fu"
 languageLang = "fi"
 title = "Pai"
